@@ -1,0 +1,6 @@
+name: swarm-leader
+runtime:
+  name: python
+  options:
+    virtualenv: venv
+description: swarm leader
